@@ -1,3 +1,5 @@
+================================================================================
+
 create a new repository on the command line
 
 echo "# LearningCV" >> README.md
